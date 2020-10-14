@@ -3,8 +3,11 @@
 </p>
 
 
-# Fragmented
+# About Fragmented
 Fragmented is a virtual reality experience of the album LPI by FKA Twigs. It remixes the meaning of the album by taking traces of the face on the cover and fragmenting them and superimposing photos of black people that experienced unjust deaths. This work serves to remember a handful of many black people in hopes of highlighting the fragmentation in our own society to provoke viewers to spread love not hate.
+
+# Experience
+View Here https://torikraj.github.io/Fragmented/ 
 
 
 <p align="center">
